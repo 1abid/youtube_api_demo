@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_53b6b674ae3b4fd200065108b1871ef3b68095e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1d84a1f7a3eaf3881ef17eb1761296aaa0bcc39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2efa753f609cc44b2864932430895f0d9b6df9bf">
+        <dex dex="/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c1302a092d6785c493b0d195d93a09a3179bcff/classes.dex" />
+    </item>
+
+</items>

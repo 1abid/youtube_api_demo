@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/res/merged/debug/layout-land/playerview_demo.xml",
+        "source": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/src/main/res/layout-land/playerview_demo.xml"
+    },
+    {
+        "merged": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/res/merged/debug/layout-land/fragments_demo.xml",
+        "source": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/src/main/res/layout-land/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/res/merged/debug/layout-land/player_controls_demo.xml",
+        "source": "/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/src/main/res/layout-land/player_controls_demo.xml"
+    }
+]

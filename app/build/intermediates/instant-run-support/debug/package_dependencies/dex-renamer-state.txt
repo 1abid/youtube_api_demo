@@ -1,0 +1,4 @@
+#Tue Mar 14 18:18:46 BDT 2017
+base.0=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_53b6b674ae3b4fd200065108b1871ef3b68095e2
+renamed.0=classes.dex
+file.0=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_53b6b674ae3b4fd200065108b1871ef3b68095e2/classes.dex

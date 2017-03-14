@@ -1,0 +1,7 @@
+#Tue Mar 14 18:18:46 BDT 2017
+base.0=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c1302a092d6785c493b0d195d93a09a3179bcff
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1d84a1f7a3eaf3881ef17eb1761296aaa0bcc39/classes.dex
+base.1=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1d84a1f7a3eaf3881ef17eb1761296aaa0bcc39
+file.0=/Users/abidhasan/Desktop/vutkaWork/udacity_workspace/sample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c1302a092d6785c493b0d195d93a09a3179bcff/classes.dex
